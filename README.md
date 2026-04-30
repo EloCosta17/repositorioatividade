@@ -1,1 +1,1 @@
-Arquivo para atividade. Alteração 1. Alteração 1 na feat-1
+Arquivo para atividade. Alteração 1. Alteração 1 na feat-1. Alteração 2.
